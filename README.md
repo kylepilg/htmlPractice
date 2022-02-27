@@ -6,3 +6,4 @@
 # images.html
 # images.html
 # images.html
+# Tables.html
