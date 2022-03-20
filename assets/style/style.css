@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 15px;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppings", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: 333;
+  background-color: rgb(244, 244, 247);
+  margin-bottom: 15px;
+  text-align: center;
+}
+img {
+  height: 40;
+  width: 50;
+}
+
+ul {
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: spacebetween;
+  text-align: right;
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.navbar .container {
+  font-size: x-large;
+}
+
+nav {
+  font-size: large;
+  font-weight: bold;
+}
+
+.navbar .container {
+}
