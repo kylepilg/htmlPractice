@@ -1,8 +1,6 @@
 * {
-  box-sizing: border-box;
   padding: 0;
   margin: 0;
-  display: inline-block;
 }
 
 .navbar {
@@ -78,10 +76,6 @@ nav ul li:hover a {
   background: #fff;
   height: 100%;
   font-size: 20px;
-  /* width: 700px;  */
+  width: 700px;
   border-radius: 25px;
-}
-
-header.header {
-  text-align: left;
 }
