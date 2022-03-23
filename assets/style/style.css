@@ -19,6 +19,7 @@
 div.contianer {
   list-style: none;
   display: inline-block;
+  align-items: center;
 }
 
 h1 {
@@ -66,20 +67,21 @@ nav ul li:hover a {
   color: blue;
 }
 
-.search.bar {
+.searchBar {
   display: flex;
   margin: auto;
   height: 50px;
   line-height: 50px;
 }
 
-.search.bar input {
-  border: none;
-  outline: none;
+.searchBar input {
   background: #fff;
   height: 100%;
-  padding-right: 100px;
   font-size: 20px;
-  width: 500px;
+  /* width: 700px;  */
   border-radius: 25px;
+}
+
+header.header {
+  text-align: left;
 }
