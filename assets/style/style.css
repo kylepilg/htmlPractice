@@ -84,3 +84,15 @@ img.floatright {
   float: right;
   margin-left: 30px;
 }
+
+h2 {
+  font-size: 50px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+}
+
+p {
+  font-size: 27px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
