@@ -10,14 +10,14 @@
   width: 40;
   position: relative;
   align-items: center;
-  background-color: aquamarine;
   margin-bottom: 150px;
+  border-bottom: 1px solid black;
 }
 
 div.contianer {
   list-style: none;
   display: inline-block;
-  align-items: center;
+  /*align-items: center;*/
 }
 
 h1 {
@@ -78,4 +78,9 @@ nav ul li:hover a {
   font-size: 20px;
   width: 700px;
   border-radius: 25px;
+}
+
+img.floatright {
+  float: right;
+  margin-left: 30px;
 }
