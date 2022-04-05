@@ -66,3 +66,26 @@ li {
   width: 100;
   max-width: 800px;
 }
+
+#about {
+  padding: 48px 0;
+  background-color: #fffdcf;
+}
+
+h2 {
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.section__description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section__description--para {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 24px;
+}
